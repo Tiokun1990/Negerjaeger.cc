@@ -1,0 +1,9 @@
+.vs/
+.git/
+Negerjaeger.cc/.vs/
+protobuf-2.5.0/
+google/
+Release/
+Release UD/
+Debug/
+Tools/
