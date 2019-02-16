@@ -1043,6 +1043,7 @@ namespace Client
 								}
 								if (ImGui::IsItemHovered())
 									ImGui::SetTooltip("Draws (Scoped) on Enemies if they are Scoping - Disabled in Main Menu (crashfix)");
+
 								ImGui::Checkbox("Is Flashed", &Settings::Esp::esp_Flashed);
 								{
 									if (!Interfaces::Engine()->IsInGame())
