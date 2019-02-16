@@ -63,6 +63,8 @@ void CGui::GUI_Init(IDirect3DDevice9 * pDevice)
 	style.AntiAliasedLines = true;
 	style.AntiAliasedFill = true;
 
+	blue();
+
 
 	ImGui_ImplDX9_CreateDeviceObjects();
 
