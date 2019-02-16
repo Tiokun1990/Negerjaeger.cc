@@ -1706,8 +1706,6 @@ namespace Client
 						ImGui::Spacing();
 
 						ImGui::Text("Negerjaeger.cc Coded by Tiokun,JazzFree");
-						ImGui::Text("Negerjaeger.cc Sherlock Holmes sucked btw");
-						ImGui::Text("Negerjaeger.cc Sherlock Holmes sucked btw");
 						ImGui::Text("Negerjaeger.cc > ALL");
 
 						ImGui::EndGroup();
