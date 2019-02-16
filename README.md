@@ -1,0 +1,2 @@
+# Negerjaeger.cc
+Private CSGO
